@@ -1,1 +1,1 @@
-[]
+[{"caption": "the man in room", "predicate": "in", "target": {"coordinates": [146, 142, 549, 568]}, "name": 5464, "source": {"coordinates": [608, 71, 588, 656]}, "seconds": 227.66666666666666, "object": "room", "type": "relation", "subject": "the man"}, {"caption": "the man in room", "predicate": "in", "target": {"coordinates": [608, 71, 588, 656]}, "name": 5464, "source": {"coordinates": [146, 142, 549, 568]}, "seconds": 227.66666666666666, "object": "room", "type": "relation", "subject": "the man"}]

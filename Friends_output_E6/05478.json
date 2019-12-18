@@ -1,1 +1,1 @@
-[]
+[{"caption": "the man in a white chair", "predicate": "in", "target": {"coordinates": [67, 129, 580, 600]}, "name": 5478, "source": {"coordinates": [599, 68, 601, 648]}, "seconds": 228.25, "object": "a white chair", "type": "relation", "subject": "the man"}, {"caption": "the man in a white chair", "predicate": "in", "target": {"coordinates": [599, 68, 601, 648]}, "name": 5478, "source": {"coordinates": [67, 129, 580, 600]}, "seconds": 228.25, "object": "a white chair", "type": "relation", "subject": "the man"}]

@@ -1,1 +1,1 @@
-[]
+[{"caption": "the door of a a white horse", "predicate": "of", "target": {"coordinates": [75, 337, 972, 392]}, "name": 141, "source": {"coordinates": [402, 54, 427, 480]}, "seconds": 5.875, "object": "a a white horse", "type": "relation", "subject": "the door"}, {"caption": "the door of a a white horse", "predicate": "of", "target": {"coordinates": [402, 54, 427, 480]}, "name": 141, "source": {"coordinates": [75, 337, 972, 392]}, "seconds": 5.875, "object": "a a white horse", "type": "relation", "subject": "the door"}]

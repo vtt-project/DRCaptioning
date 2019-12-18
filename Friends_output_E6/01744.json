@@ -1,1 +1,1 @@
-[]
+[{"caption": "the people on ground", "predicate": "on", "target": {"coordinates": [637, -5, 573, 722]}, "name": 1744, "source": {"coordinates": [13, 62, 719, 651]}, "seconds": 72.66666666666667, "object": "ground", "type": "relation", "subject": "the people"}, {"caption": "the people on ground", "predicate": "on", "target": {"coordinates": [13, 62, 719, 651]}, "name": 1744, "source": {"coordinates": [637, -5, 573, 722]}, "seconds": 72.66666666666667, "object": "ground", "type": "relation", "subject": "the people"}]

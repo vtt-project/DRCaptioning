@@ -1,1 +1,1 @@
-[]
+[{"caption": "the people on top of brown table", "predicate": "on", "target": {"coordinates": [1108, 131, 167, 590]}, "name": 1114, "source": {"coordinates": [326, 39, 666, 683]}, "seconds": 46.416666666666664, "object": "top of brown table", "type": "relation", "subject": "the people"}, {"caption": "the people on top of brown table", "predicate": "on", "target": {"coordinates": [326, 39, 666, 683]}, "name": 1114, "source": {"coordinates": [1108, 131, 167, 590]}, "seconds": 46.416666666666664, "object": "top of brown table", "type": "relation", "subject": "the people"}]

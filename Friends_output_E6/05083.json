@@ -1,1 +1,1 @@
-[]
+[{"caption": "the wall has a white snow", "predicate": "has", "target": {"coordinates": [510, 42, 619, 691]}, "name": 5083, "source": {"coordinates": [110, 19, 463, 685]}, "seconds": 211.79166666666666, "object": "a white snow", "type": "relation", "subject": "the wall"}, {"caption": "the wall has a white snow", "predicate": "has", "target": {"coordinates": [110, 19, 463, 685]}, "name": 5083, "source": {"coordinates": [510, 42, 619, 691]}, "seconds": 211.79166666666666, "object": "a white snow", "type": "relation", "subject": "the wall"}]

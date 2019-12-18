@@ -1,1 +1,1 @@
-[{"caption": "the building has a window", "predicate": "has", "target": {"coordinates": [155.5, 139.5, 515, 564]}, "name": 5344, "source": {"coordinates": [576.5, 86.5, 543, 624]}, "seconds": 222.66666666666666, "object": "a window", "type": "relation", "subject": "the building"}, {"caption": "the building has a window", "predicate": "has", "target": {"coordinates": [576.5, 86.5, 543, 624]}, "name": 5344, "source": {"coordinates": [155.5, 139.5, 515, 564]}, "seconds": 222.66666666666666, "object": "a window", "type": "relation", "subject": "the building"}]
+[{"name": 5168}]

@@ -1,1 +1,1 @@
-[]
+[{"caption": "the man in front of a brown horse", "predicate": "in", "target": {"coordinates": [590, 90, 487, 619]}, "name": 5001, "source": {"coordinates": [55, 42, 559, 678]}, "seconds": 208.375, "object": "front of a brown horse", "type": "relation", "subject": "the man"}, {"caption": "the man in front of a brown horse", "predicate": "in", "target": {"coordinates": [55, 42, 559, 678]}, "name": 5001, "source": {"coordinates": [590, 90, 487, 619]}, "seconds": 208.375, "object": "front of a brown horse", "type": "relation", "subject": "the man"}]

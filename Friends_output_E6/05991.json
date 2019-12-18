@@ -1,1 +1,1 @@
-[]
+[{"caption": "the man has a brown hair", "predicate": "has", "target": {"coordinates": [210, 175, 503, 537]}, "name": 5991, "source": {"coordinates": [619, 119, 576, 600]}, "seconds": 249.625, "object": "a brown hair", "type": "relation", "subject": "the man"}, {"caption": "the man has a brown hair", "predicate": "has", "target": {"coordinates": [619, 119, 576, 600]}, "name": 5991, "source": {"coordinates": [210, 175, 503, 537]}, "seconds": 249.625, "object": "a brown hair", "type": "relation", "subject": "the man"}]

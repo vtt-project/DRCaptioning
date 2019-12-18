@@ -1,1 +1,1 @@
-[]
+[{"caption": "white shirt has a white shirt", "predicate": "has", "target": {"coordinates": [82, 141, 570, 580]}, "name": 5435, "source": {"coordinates": [614, 77, 565, 641]}, "seconds": 226.45833333333334, "object": "a white shirt", "type": "relation", "subject": "white shirt"}, {"caption": "white shirt has a white shirt", "predicate": "has", "target": {"coordinates": [614, 77, 565, 641]}, "name": 5435, "source": {"coordinates": [82, 141, 570, 580]}, "seconds": 226.45833333333334, "object": "a white shirt", "type": "relation", "subject": "white shirt"}]

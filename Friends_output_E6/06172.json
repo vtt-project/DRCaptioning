@@ -1,1 +1,1 @@
-[{"caption": "the man in a a white shirt", "predicate": "in", "target": {"coordinates": [650.5, -2.5, 393, 735]}, "name": 1006, "source": {"coordinates": [347.5, 34.5, 353, 692]}, "seconds": 41.916666666666664, "object": "a a white shirt", "type": "relation", "subject": "the man"}, {"caption": "the man in a a white shirt", "predicate": "in", "target": {"coordinates": [347.5, 34.5, 353, 692]}, "name": 1006, "source": {"coordinates": [650.5, -2.5, 393, 735]}, "seconds": 41.916666666666664, "object": "a a white shirt", "type": "relation", "subject": "the man"}]
+[{"name": 6172}]

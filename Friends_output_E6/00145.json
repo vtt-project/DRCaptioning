@@ -1,1 +1,1 @@
-[]
+[{"caption": "the shadow of a person", "predicate": "of", "target": {"coordinates": [79, 341, 963, 386]}, "name": 145, "source": {"coordinates": [405, 59, 422, 466]}, "seconds": 6.041666666666667, "object": "a person", "type": "relation", "subject": "the shadow"}, {"caption": "the shadow of a person", "predicate": "of", "target": {"coordinates": [405, 59, 422, 466]}, "name": 145, "source": {"coordinates": [79, 341, 963, 386]}, "seconds": 6.041666666666667, "object": "a person", "type": "relation", "subject": "the shadow"}]

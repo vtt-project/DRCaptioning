@@ -1,1 +1,1 @@
-[]
+[{"caption": "the white line on ground", "predicate": "on", "target": {"coordinates": [238, 154, 223, 366]}, "name": 512, "source": {"coordinates": [347, 336, 746, 376]}, "seconds": 21.333333333333332, "object": "ground", "type": "relation", "subject": "the white line"}, {"caption": "the white line on ground", "predicate": "on", "target": {"coordinates": [347, 336, 746, 376]}, "name": 512, "source": {"coordinates": [238, 154, 223, 366]}, "seconds": 21.333333333333332, "object": "ground", "type": "relation", "subject": "the white line"}]

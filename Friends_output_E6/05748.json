@@ -1,1 +1,1 @@
-[{"caption": "white shirt has a white pillow", "predicate": "has", "target": {"coordinates": [140.5, 147.5, 546, 563]}, "name": 5436, "source": {"coordinates": [611.5, 77.5, 568, 643]}, "seconds": 226.5, "object": "a white pillow", "type": "relation", "subject": "white shirt"}, {"caption": "white shirt has a white pillow", "predicate": "has", "target": {"coordinates": [611.5, 77.5, 568, 643]}, "name": 5436, "source": {"coordinates": [140.5, 147.5, 546, 563]}, "seconds": 226.5, "object": "a white pillow", "type": "relation", "subject": "white shirt"}]
+[{"name": 5748}]

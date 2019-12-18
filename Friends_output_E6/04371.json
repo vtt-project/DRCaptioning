@@ -1,1 +1,1 @@
-[{"caption": "the man on the a white plate", "predicate": "on", "target": {"coordinates": [156.5, 112.5, 607, 611]}, "name": 3318, "source": {"coordinates": [744.5, 46.5, 392, 671]}, "seconds": 138.25, "object": "the a white plate", "type": "relation", "subject": "the man"}, {"caption": "the man on the a white plate", "predicate": "on", "target": {"coordinates": [744.5, 46.5, 392, 671]}, "name": 3318, "source": {"coordinates": [156.5, 112.5, 607, 611]}, "seconds": 138.25, "object": "the a white plate", "type": "relation", "subject": "the man"}]
+[{"name": 4371}]

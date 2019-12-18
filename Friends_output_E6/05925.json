@@ -1,1 +1,1 @@
-[{"caption": "the wall in room", "predicate": "in", "target": {"coordinates": [496.5, 72.5, 657, 632]}, "name": 4953, "source": {"coordinates": [43.5, 26.5, 557, 695]}, "seconds": 206.375, "object": "room", "type": "relation", "subject": "the wall"}, {"caption": "the wall in room", "predicate": "in", "target": {"coordinates": [43.5, 26.5, 557, 695]}, "name": 4953, "source": {"coordinates": [496.5, 72.5, 657, 632]}, "seconds": 206.375, "object": "room", "type": "relation", "subject": "the wall"}]
+[{"name": 5925}]

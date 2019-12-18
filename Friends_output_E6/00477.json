@@ -1,1 +1,1 @@
-[{"caption": "the people on top of the boat", "predicate": "on", "target": {"coordinates": [914.5, 338.5, 361, 379]}, "name": 330, "source": {"coordinates": [293.5, 89.5, 441, 621]}, "seconds": 13.75, "object": "top of the boat", "type": "relation", "subject": "the people"}, {"caption": "the people on top of the boat", "predicate": "on", "target": {"coordinates": [293.5, 89.5, 441, 621]}, "name": 330, "source": {"coordinates": [914.5, 338.5, 361, 379]}, "seconds": 13.75, "object": "top of the boat", "type": "relation", "subject": "the people"}]
+[{"name": 477}]

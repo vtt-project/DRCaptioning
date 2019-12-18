@@ -1,1 +1,1 @@
-[]
+[{"caption": "the ground has a the", "predicate": "has", "target": {"coordinates": [230, 164, 468, 575]}, "name": 333, "source": {"coordinates": [834, 303, 345, 429]}, "seconds": 13.875, "object": "a the", "type": "relation", "subject": "the ground"}, {"caption": "the ground has a the", "predicate": "has", "target": {"coordinates": [834, 303, 345, 429]}, "name": 333, "source": {"coordinates": [230, 164, 468, 575]}, "seconds": 13.875, "object": "a the", "type": "relation", "subject": "the ground"}]

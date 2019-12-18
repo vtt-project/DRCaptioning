@@ -1,1 +1,1 @@
-[]
+[{"caption": "the shadow on ground", "predicate": "on", "target": {"coordinates": [220, 147, 457, 574]}, "name": 4000, "source": {"coordinates": [944, 90, 339, 608]}, "seconds": 166.66666666666666, "object": "ground", "type": "relation", "subject": "the shadow"}, {"caption": "the shadow on ground", "predicate": "on", "target": {"coordinates": [944, 90, 339, 608]}, "name": 4000, "source": {"coordinates": [220, 147, 457, 574]}, "seconds": 166.66666666666666, "object": "ground", "type": "relation", "subject": "the shadow"}]

@@ -1,1 +1,1 @@
-[{"caption": "the people on top of the wall", "predicate": "on", "target": {"coordinates": [1082.5, 92.5, 185, 663]}, "name": 1143, "source": {"coordinates": [214.5, 60.5, 794, 663]}, "seconds": 47.625, "object": "top of the wall", "type": "relation", "subject": "the people"}, {"caption": "the people on top of the wall", "predicate": "on", "target": {"coordinates": [214.5, 60.5, 794, 663]}, "name": 1143, "source": {"coordinates": [1082.5, 92.5, 185, 663]}, "seconds": 47.625, "object": "top of the wall", "type": "relation", "subject": "the people"}]
+[{"name": 4698}]

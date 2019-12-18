@@ -1,1 +1,1 @@
-[]
+[{"caption": "the woman in front of white", "predicate": "in", "target": {"coordinates": [225, 107, 320, 619]}, "name": 3262, "source": {"coordinates": [784, 44, 435, 666]}, "seconds": 135.91666666666666, "object": "front of white", "type": "relation", "subject": "the woman"}, {"caption": "the woman in front of white", "predicate": "in", "target": {"coordinates": [784, 44, 435, 666]}, "name": 3262, "source": {"coordinates": [225, 107, 320, 619]}, "seconds": 135.91666666666666, "object": "front of white", "type": "relation", "subject": "the woman"}]

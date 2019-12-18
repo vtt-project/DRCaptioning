@@ -1,1 +1,1 @@
-[{"caption": "the chair on floor", "predicate": "on", "target": {"coordinates": [276.5, 97.5, 306, 513]}, "name": 3912, "source": {"coordinates": [476.5, 288.5, 325, 359]}, "seconds": 163.0, "object": "floor", "type": "relation", "subject": "the chair"}, {"caption": "the chair on floor", "predicate": "on", "target": {"coordinates": [476.5, 288.5, 325, 359]}, "name": 3912, "source": {"coordinates": [276.5, 97.5, 306, 513]}, "seconds": 163.0, "object": "floor", "type": "relation", "subject": "the chair"}]
+[{"name": 6151}]

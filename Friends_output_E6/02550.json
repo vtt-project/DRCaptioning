@@ -1,1 +1,1 @@
-[{"caption": "the wall has a head", "predicate": "has", "target": {"coordinates": [627.5, 92.5, 462, 618]}, "name": 5134, "source": {"coordinates": [240.5, 117.5, 438, 610]}, "seconds": 213.91666666666666, "object": "a head", "type": "relation", "subject": "the wall"}, {"caption": "the wall has a head", "predicate": "has", "target": {"coordinates": [240.5, 117.5, 438, 610]}, "name": 5134, "source": {"coordinates": [627.5, 92.5, 462, 618]}, "seconds": 213.91666666666666, "object": "a head", "type": "relation", "subject": "the wall"}]
+[{"name": 2550}]

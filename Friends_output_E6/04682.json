@@ -1,1 +1,1 @@
-[{"caption": "the people on ground", "predicate": "on", "target": {"coordinates": [831.5, 341.5, 435, 367]}, "name": 328, "source": {"coordinates": [424.5, 86.5, 436, 625]}, "seconds": 13.666666666666666, "object": "ground", "type": "relation", "subject": "the people"}, {"caption": "the people on ground", "predicate": "on", "target": {"coordinates": [424.5, 86.5, 436, 625]}, "name": 328, "source": {"coordinates": [831.5, 341.5, 435, 367]}, "seconds": 13.666666666666666, "object": "ground", "type": "relation", "subject": "the people"}]
+[{"name": 4682}]

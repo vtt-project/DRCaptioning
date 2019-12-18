@@ -1,1 +1,1 @@
-[]
+[{"caption": "the man has a head", "predicate": "has", "target": {"coordinates": [99, 208, 1118, 507]}, "name": 4496, "source": {"coordinates": [632, 39, 638, 468]}, "seconds": 187.33333333333334, "object": "a head", "type": "relation", "subject": "the man"}, {"caption": "the man has a head", "predicate": "has", "target": {"coordinates": [632, 39, 638, 468]}, "name": 4496, "source": {"coordinates": [99, 208, 1118, 507]}, "seconds": 187.33333333333334, "object": "a head", "type": "relation", "subject": "the man"}]

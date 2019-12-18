@@ -1,1 +1,1 @@
-[{"caption": "the man in front of the glass", "predicate": "in", "target": {"coordinates": [87.5, 76.5, 651, 643]}, "name": 1875, "source": {"coordinates": [646.5, 9.5, 564, 720]}, "seconds": 78.125, "object": "front of the glass", "type": "relation", "subject": "the man"}, {"caption": "the man in front of the glass", "predicate": "in", "target": {"coordinates": [646.5, 9.5, 564, 720]}, "name": 1875, "source": {"coordinates": [87.5, 76.5, 651, 643]}, "seconds": 78.125, "object": "front of the glass", "type": "relation", "subject": "the man"}]
+[{"name": 2332}]

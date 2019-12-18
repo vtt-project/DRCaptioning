@@ -1,1 +1,1 @@
-[{"caption": "the man on wooden table", "predicate": "on", "target": {"coordinates": [361.5, 124.5, 387, 595]}, "name": 5206, "source": {"coordinates": [481.5, 9.5, 542, 709]}, "seconds": 216.91666666666666, "object": "wooden table", "type": "relation", "subject": "the man"}, {"caption": "the man on wooden table", "predicate": "on", "target": {"coordinates": [481.5, 9.5, 542, 709]}, "name": 5206, "source": {"coordinates": [361.5, 124.5, 387, 595]}, "seconds": 216.91666666666666, "object": "wooden table", "type": "relation", "subject": "the man"}]
+[{"name": 975}]
